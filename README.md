@@ -74,7 +74,7 @@ Projeye katkıda bulunmak isterseniz, lütfen bir pull request oluşturun veya p
 
 ## Lisans
 
-Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
+Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
 
 ## İletişim
 
