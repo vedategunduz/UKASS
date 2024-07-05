@@ -10,7 +10,6 @@
 - [Kullanım](#kullanım)
 - [Özellikler](#özellikler)
 - [Gereksinimler](#gereksinimler)
-- [Katkıda Bulunma](#katkıda-bulunma)
 - [Lisans](#lisans)
 - [İletişim](#iletişim)
 
@@ -67,10 +66,6 @@ Projeyi kullanmak için:
 - NodeMCU
 - PHP destekli bir web sunucusu
 - İnternet bağlantısı
-
-## Katkıda Bulunma
-
-Projeye katkıda bulunmak isterseniz, lütfen bir pull request oluşturun veya projeyle ilgili sorunları [issue tracker](https://github.com/vedat/ukass/issues) üzerinden bildirin.
 
 ## Lisans
 
