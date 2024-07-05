@@ -25,7 +25,7 @@ Projeyi kurmak için aşağıdaki adımları izleyin:
 
 ## Devre Şeması
 
-DEVRE ŞEMASI
+![](diagram.png)
 
 ### Gerekli Malzemeler
 - NodeMCU
