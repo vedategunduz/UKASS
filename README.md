@@ -6,7 +6,7 @@
 
 - [Hakkında](#hakkında)
 - [Kurulum](#kurulum)
-- [Devre Şeması](#devreseması)
+- [Devre Şeması](#devre-şeması)
 - [Kullanım](#kullanım)
 - [Özellikler](#özellikler)
 - [Gereksinimler](#gereksinimler)
