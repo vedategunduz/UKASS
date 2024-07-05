@@ -12,7 +12,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 const char* ssid = "Patates";
 const char* password = "patates123";
 // Sunucu URL'si
-const char* serverUrl = "http://vedategunduz.com.tr/greenhouse-controller/nodemcu.php";
+const char* serverUrl = "http://webadresi.com.tr/nodemcu.php";
 
 double temperature;  // Sıcaklık değişkeni
 
